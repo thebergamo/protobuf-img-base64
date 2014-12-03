@@ -1,0 +1,3 @@
+message Image {
+    required string image = 1;
+}

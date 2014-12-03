@@ -1,0 +1,31 @@
+{
+  "name": "protobuf-img-base64",
+  "version": "0.0.1",
+  "description": "Example of how to use Google's Protocol Buffer to send an image in base64 via socket",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marcosbergamo/protobuf-img-base64.git"
+  },
+  "keywords": [
+    "protobuf",
+    "protocol",
+    "buffer",
+    "protobuffer"
+  ],
+  "author": "Marcos Bérgamo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marcosbergamo/protobuf-img-base64/issues"
+  },
+  "homepage": "https://github.com/marcosbergamo/protobuf-img-base64",
+  "dependencies": {
+    "buffertools": "^2.1.2",
+    "express": "^4.10.4",
+    "protobufjs": "^3.8.2",
+    "ws": "^0.5.0"
+  }
+}
