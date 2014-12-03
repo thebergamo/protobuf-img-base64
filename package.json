@@ -23,8 +23,6 @@
   },
   "homepage": "https://github.com/marcosbergamo/protobuf-img-base64",
   "dependencies": {
-    "buffertools": "^2.1.2",
-    "express": "^4.10.4",
     "protobufjs": "^3.8.2",
     "ws": "^0.5.0"
   }
